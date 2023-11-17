@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://akm-img-a-in.tosshub.com/businesstoday/images/story/202305/bitcoin-volatility-sixteen_nine.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.main {
+
+    margin: 0 auto;
+    width: 300px;
+    border: 2px solid white;
+    height: 70vh;
+    padding: 1rem;
+    background-color: rgb(128, 255, 0);
+    opacity: 0.5;
+}
+.pick {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+button {
+    background-color: blue;
+    width: 40vh;
+    height: 7vh;
+    color: white;
+    margin-top: 2rem;
+}
+
+h2 {
+    background-color: white;
+    color: blue;
+    width: 30vh;
+    height: 7vh;
+
+}
+
