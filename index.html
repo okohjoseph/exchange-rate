@@ -7,25 +7,31 @@
     <link rel="stylesheet" href="./exchange.css">
 </head>
 <body>
-    <div class="main">
+     <div>
         <h1>EXCHANGE RATE</h1>
-        <div class="container">
-            <div class="conversion">
-                <div>Exchange Rate</div><br>
-                <input class="input" type="text">
-                
-            </div>
-            <div class="pick">
-                <label for="">ZAR</label>
-                <input id="zar" type="radio" name="choose"><br><br>
-                <label class="lol" for="">USD</label>
-                <input id="USDollar" type="radio" name="choose">
-            </div>
-        </div>
-        <button class="btn">CONVERT</button>
+     </div>
+     <div class="boss">
+        <p id="para">Click on one of the options below to change your currency</p>
+         <input class="usd" type="radio" value="jo" name="u"> Dollar to ZAR
+         <input class="spec" type="radio" value="jo"> ZAR to Dollar
 
-        <h2></h2>
-    </div>
+         <p> input the Amount in ZAR or Dollar Bellow </p>
+         <input class="ipp" type="text">
+
+         <h2>NAN</h2>
+         <div class="start">
+        <div>
+         <div>Your Money in ZAR </div>
+         <button class="btn" id="but">Click here</button>
+         <hr>
+         </div>
+         <div class="dov">
+        <div>Your Money in Dollar </div>
+         <button class="btn2" id="but">Click here</button>
+         <hr>
+         </div>
+         </div>
+     </div>
 
     <script src="./exchange.js"></script>
 </body>

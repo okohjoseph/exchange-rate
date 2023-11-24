@@ -1,0 +1,99 @@
+body {
+    
+background-image: url(https://forkast.news/wp-content/uploads/2023/04/various-golden-cryptocurrencies-2023-03-14-08-13-37-utc-1260x840.jpg);
+background-size: cover;
+/* background-repeat: no-repeat; */
+}
+
+
+/* .main { */
+/*  */
+    /* margin: 0 auto; */
+    /* width: 300px; */
+    /* border: 2px solid white; */
+    /* height: 70vh; */
+    /* padding: 1rem; */
+    /* background-color: rgb(128, 255, 0); */
+    /* opacity: 0.5; */
+/* } */
+/* .pick { */
+    /* margin-top: 3rem; */
+    /* margin-left: 3rem; */
+/* } */
+/*  */
+/* button { */
+    /* background-color: blue; */
+    /* width: 40vh; */
+    /* height: 7vh; */
+    /* color: white; */
+    /* margin-top: 2rem; */
+/* } */
+/*  */
+/* h2 { */
+    /* background-color: white; */
+    /* color: blue; */
+    /* width: 30vh; */
+    /* height: 7vh; */
+/*  */
+/* } */
+/*  */
+/*  */
+
+.start {
+    display: flex;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    color: white;
+
+    
+}
+.dov {
+    margin-left: 3rem;
+}
+#but{
+    
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    box-shadow: 3px 3px 10px green;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: blue;
+    transition: 2s;
+}
+
+
+.boss {
+    margin: 0 auto;
+    width: 500px;
+    border: 3px solid rgb(77, 27, 27);
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.ipp {
+    border-radius: 5px;
+    border: 2px solid white;
+    height: 5vh;
+    width: 40vh;
+}
+
+#para{
+    font-size: larger;
+}
+p {
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+.spec {
+    margin-left: 5rem;
+}
